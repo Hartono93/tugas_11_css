@@ -1,0 +1,52 @@
+header {
+  background-color: black;
+  height: 35px;
+  font-size: 18px;
+  font-weight: bolder;
+  padding-top: 1px;
+}
+
+.bg {
+  background-color: black;
+  height: 20px;
+  padding-top: 0px;
+}
+
+li {
+  display: inline;
+  list-style-type: none;
+  padding-right: 20px;
+  list-style-type: none;
+}
+
+a {
+  position: static;
+  color: white;
+  text-decoration: none;
+}
+
+.bodybg {
+  background-color: #DCDCDC;
+  height: 670px;
+  padding: 15px;
+}
+
+.head {
+  column-span: all;
+}
+
+p {
+  column-gap: 15px;
+  column-rule-style: solid;
+  column-count: 4;
+  text-align: justify;
+  font-size: 12px;
+}
+
+footer {
+  background-color: black;
+  width: auto;
+  height: 40px;
+  text-align: center;
+  color: white;
+}
